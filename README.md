@@ -1,22 +1,11 @@
-<!-- # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+Thanks for visiting to my GitHub account.
 
-## 📊 GitHub Stats:
+- 🛠️ I’m an engineer and researcher passionate about computer science.
+- 🔬 Currently researching on GenAI, IoT, and Edge Computing.
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/binodmx).
+
+Check out my GitHub stats below!
+<!-- ## 📊 GitHub Stats: -->
 ![](https://github-readme-stats.vercel.app/api?username=binodmx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=binodmx&theme=dark&hide_border=false)<br/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**binodmx/binodmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=binodmx&theme=dark&hide_border=false)<br/> -->
